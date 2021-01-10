@@ -1,5 +1,4 @@
-# torrent-to-google-drive
-Safely download torrent files directly to GDrive.
+[![torrent-to-google-drive](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=torrent-to-google-drive&theme=dark)](https://github.com/navaneethkm004/torrent-to-google-drive)
 
 # CLICK ON OPEN IN COLLAB AND FOLLOW THE INSTRUCTIONS TO DOWNLOAD
   
