@@ -8,6 +8,6 @@ This project is for educational purpose only! I won't be responsible for any pro
 
 Watch the full tutorial on YouTube!!
 
-[<img src="https://github.com/navaneethkm004/my-images/blob/main/limetorrent.png?raw=true" width="917" height="515">](https://youtu.be/WUy098LyyvQ)<br/>
+[<img src="https://github.com/navaneethkm004/my-images/blob/main/limetorrent.png?raw=true" width="917" height="515">](https://youtu.be/g_RtUOpSeJQ)<br/>
   
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/navaneethkm004/torrent-to-google-drive/blob/main/Torrent_To_Google_Drive_Downloader_By_NKM.ipynb)
